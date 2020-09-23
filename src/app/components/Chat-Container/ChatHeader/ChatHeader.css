@@ -1,0 +1,16 @@
+.chat-header{
+    display: flex;
+    padding: 19px;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgray;
+}
+.header-right{
+    display: flex;
+    margin-left: 20px;
+}
+.header-middle{
+    margin-left: 20px;
+}
+.header-middle p{
+    color: gray;
+}
