@@ -1,0 +1,25 @@
+.msg_sender{
+    display: flex;
+}
+.sender-container{
+    flex: 1;
+    padding: 10px;
+}
+.sender{
+    flex: 1;
+    padding-left: 10px;
+    background-color: white;
+    border-radius: 45px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.sender input{
+    border: none;
+    outline-width: 0;
+    
+}
+.iconBtn{
+    margin-left: auto;
+}
+
